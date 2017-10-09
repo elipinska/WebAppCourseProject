@@ -2,3 +2,7 @@
   height: 400px;
   width: 400px;
 }
+
+body {
+  background-color: rgb(16, 81, 13);
+}
