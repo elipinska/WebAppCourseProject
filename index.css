@@ -1,8 +1,15 @@
 #map { 
   height: 400px;
   width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
 }
 
 body {
   background-color: rgb(16, 81, 13);
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+  font-family: Verdana;
 }
